@@ -1,7 +1,7 @@
 ## Hi there 👋
 
+- I'm Web Front-end Developer.
 - 🌱 skills: JavaScript, TypeScript, React
-- 📫 contact: benkim0077@gmail.com
 
 ## Links
 
