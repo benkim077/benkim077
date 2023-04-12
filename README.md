@@ -1,6 +1,6 @@
-## Hi there 👋
+## About Me
 
-- I'm Web Front-end Developer.
+- 👋 I'm Web Front-end Developer.
 - 🌱 skills: JavaScript, TypeScript, React
 
 ## Links
