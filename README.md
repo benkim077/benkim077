@@ -5,5 +5,4 @@
 
 ## Links
 
-- [portfolio](https://benkim077.notion.site/847f2a49749446fa890673222942fc28)
-- [blog](https://nefflix.tistory.com)
+- [blog](https://benkim077.github.io)
